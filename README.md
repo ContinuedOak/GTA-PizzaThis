@@ -24,5 +24,4 @@ Inspired by the Online Pizza Delivery Missions, players can enter any PizzaThis.
 3) drag and drop the scripts folder from a downloaded folder into step 2).
 
 ### Known Bugs
-1) Shops locations don't appear on the map
-2) Ground makers for where to deliver do not appear
+1) Navigation Waypoints disappear when a Random Event disappears
